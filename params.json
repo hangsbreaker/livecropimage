@@ -1,6 +1,6 @@
 {
   "name": "Livecropimage",
   "tagline": "Cropping image with javascript Jcrop",
-  "body": "# livecropimage\r\nCropping image in live preview with <a href=\"http://deepliquid.com/content/Jcrop.html\">Jcrop</a>\r\n<style>\r\niframe{\r\n\tborder:none;\r\n\tbackground:#fff;\r\n}\r\n</style>\r\n<iframe src=\"hdata:text/html;base64,aHR0cDovL2V4YW1wbGUuY29t\" width=\"600\" height=\"700\">\r\n\t<p>Your browser does not support iframes.</p>\r\n</iframe>",
+  "body": "# livecropimage\r\nCropping image in live preview with <a href=\"http://deepliquid.com/content/Jcrop.html\">Jcrop</a>\r\n\r\n<a href=\"http://hillo.esy.es/repo/livecropimage/\">Demo</a>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
